@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=LCD_D7 Pin=C8-1
+Removed Pin From Net: NetName=DQ Pin=C8-2
+Removed Pin From Net: NetName=DATA_RH Pin=C8-3
+Removed Pin From Net: NetName=05 Pin=C8-4
+Removed Pin From Net: NetName=07 Pin=C8-5
+Removed Pin From Net: NetName=10 Pin=C8-6
+Removed Pin From Net: NetName=11 Pin=C8-7
+Removed Pin From Net: NetName=12 Pin=C8-8
+Removed Pin From Net: NetName=13 Pin=C8-9
+Removed Pin From Net: NetName=18 Pin=C8-10
+Removed Pin From Net: NetName=20 Pin=C8-12
+Removed Pin From Net: NetName=22 Pin=C8-14
+Removed Pin From Net: NetName=24 Pin=C8-16
+Removed Pin From Net: NetName=26 Pin=C8-18
+Removed Pin From Net: NetName=27 Pin=C8-19
+Removed Pin From Net: NetName=VCC Pin=C8-20
+Removed Pin From Net: NetName=30 Pin=C8-21
+Removed Pin From Net: NetName=31 Pin=C8-22
+Removed Member From Class: ClassName=sheet_LAC Member=C8
+Added Member To Class: ClassName=sheet_LAC Member=Component C7 33pF

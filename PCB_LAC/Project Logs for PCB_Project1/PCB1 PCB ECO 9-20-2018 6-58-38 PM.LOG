@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=Control_H Pin=U1-5
+Removed Pin From Net: NetName=Control_T Pin=U1-7
+Added Pin To Net: NetName=Control_T Pin=U1-5
+Added Pin To Net: NetName=Control_H Pin=U1-7
+Added Room: Name=sheet_LAC

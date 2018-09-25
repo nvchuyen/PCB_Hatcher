@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=GND Pin=C6-5
+Change Component Footprint: Designator=C6 Old Footprint=JP5-C1T New Footprint=JP6-C1T
+Change Component Comment : Designator=C6 Old Comment=JP5 New Comment=JP6
+Change component parameters: Designator = "C6"; Footprint = "JP6-C1T"; UniqueID = "\KCFEXEQY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NoPins"; Value = "06"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "partNo"; Value = "613006143121"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RESET Pin=C6-5
+Added Pin To Net: NetName=GND Pin=C6-6
+Added Room: Name=sheet_LAC

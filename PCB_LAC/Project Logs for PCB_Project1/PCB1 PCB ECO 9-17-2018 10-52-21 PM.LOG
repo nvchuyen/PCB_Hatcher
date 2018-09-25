@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=sheet_LAC Member=C9
+Change Component Designator: OldDesignator=C7 NewDesignator=C6
+Change Component Designator: OldDesignator=C9 NewDesignator=C7
+Added Room: Name=sheet_LAC

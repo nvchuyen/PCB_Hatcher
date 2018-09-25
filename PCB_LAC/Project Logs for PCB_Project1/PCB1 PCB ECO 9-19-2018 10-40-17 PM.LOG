@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=30 Pin=U1-28
+Change Net Name : Old Net Name=29 New Net Name=39
+Added Pin To Net: NetName=28 Pin=U1-28
+Added Net: Name=28
+Added Room: Name=sheet_LAC

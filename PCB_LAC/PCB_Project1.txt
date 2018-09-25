@@ -1,0 +1,16 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~PCB_Project1.PrjPCB|ReportField=ProjectFullPath~E:\LongApChung-20180710T022657Z-001\PCB_LAC\PCD_LAC\PCB_Project1.PrjPCB|ReportField=Title~Bill of Materials For Project [PCB_Project1.PrjPCB] (No PCB Document Selected)|ReportField=ReportTime~4:41:02 PM|ReportField=ReportDate~9/13/2018|ReportField=ReportDateTime~9/13/2018 4:41:02 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=TotalQuantity~26|ReportField=TotalActualPrice~0|ReportField=TotalTargetPrice~0|ReportField=VersionControl_RevNumber~|ReportField=VersionControl_ProjFolderRevNumber~|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~9/13/2018|ReportField=CurrentTime~4:39:33 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~E:\LongApChung-20180710T022657Z-001\PCB_LAC\PCD_LAC\sheet_LAC.SchDoc|ReportField=DocumentName~sheet_LAC.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~9/13/2018|ReportField=Organization~|ReportField=ProjectName~PCB_Project1.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~PCB_Project1.PrjPCB|ReportField=DataSourceFullPath~E:\LongApChung-20180710T022657Z-001\PCB_LAC\PCD_LAC\PCB_Project1.PrjPCB|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|10uF|Cap P  0,1uF < 22uF , 16 - 50V|C?|CP1/2|CP1|2
+2|33pF|Cap np  1pF - 472pF|C?|CN1|CN1|2
+3|104|Cap np 104 => 105pF|C?|CN2|CN2|2
+4|DHT11||C?|DHT11|DHT11|1
+5|AT89C52|Atmel AT89C52, 8k Byte Flash Memory , 40 Pin|IC?|DIP40/W0.6|AT89C52|1
+6|DS18S20|High Precision  1-Wire® Digital Thermometer|IC?|JP3-C1T|DS18S20|1
+7|LM7805|On ap +, from + 5 to + 24VDC|IC?|QTO-220|LM78xx|1
+8|LCD16x2A|LCD dipslay 16 char, 2 line|LCD?|LCD16X2|LCD16x2|1
+9|1k|Resistor 1/4W|R?|R1/4W|R1/4W|6
+10|330|Resistor 1/4W|R?|R1/4W|R1/4W|1
+11|Res1|Resistor|R?|R1/4W|Res1_4|1
+12|SW|Switch button 2 pin|SW?|SW2|SW2|1
+13|SW|Switch button 4 pin|SW?|SW4|SW4|4
+14|10K|Var Resistor|VR?|VR|VR|1
+15|4Mhz|Crystal For all Crystal 2pin.|X?|XT2|XT2|1

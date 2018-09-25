@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=Engine1 Pin=U1-10
+Removed Pin From Net: NetName=Engine2 Pin=U1-11
+Added Pin To Net: NetName=Engine2 Pin=U1-10
+Added Pin To Net: NetName=Engine1 Pin=U1-11
+Added Member To Class: ClassName=sheet_LAC Member=Component LCD1 LCD16x2A
+Added Room: Name=sheet_LAC

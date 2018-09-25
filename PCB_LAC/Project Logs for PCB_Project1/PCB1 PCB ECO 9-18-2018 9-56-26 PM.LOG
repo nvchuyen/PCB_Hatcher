@@ -1,0 +1,36 @@
+Change Component Designator: OldDesignator=C6 NewDesignator=C7
+Change Component Designator: OldDesignator=C7 NewDesignator=C9
+Added Component: Designator=C8(JP22-D1C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "22"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613022143121"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=LCD_D7 Pin=C8-1
+Added Pin To Net: NetName=DQ Pin=C8-2
+Added Pin To Net: NetName=DATA_RH Pin=C8-3
+Added Pin To Net: NetName=05 Pin=C8-4
+Added Pin To Net: NetName=07 Pin=C8-5
+Added Pin To Net: NetName=10 Pin=C8-6
+Added Pin To Net: NetName=11 Pin=C8-7
+Added Pin To Net: NetName=12 Pin=C8-8
+Added Pin To Net: NetName=13 Pin=C8-9
+Added Pin To Net: NetName=18 Pin=C8-10
+Added Pin To Net: NetName=20 Pin=C8-12
+Added Pin To Net: NetName=22 Pin=C8-14
+Added Pin To Net: NetName=24 Pin=C8-16
+Added Pin To Net: NetName=26 Pin=C8-18
+Added Pin To Net: NetName=27 Pin=C8-19
+Added Pin To Net: NetName=VCC Pin=C8-20
+Added Pin To Net: NetName=30 Pin=C8-21
+Added Pin To Net: NetName=31 Pin=C8-22
+Added Pin To Net: NetName=31 Pin=R17-1
+Added Pin To Net: NetName=30 Pin=R18-1
+Added Member To Class: ClassName=sheet_LAC Member=Component C8 JP22
+Added Member To Class: ClassName=sheet_LAC Member=Component C9 33pF
+Added Room: Name=sheet_LAC

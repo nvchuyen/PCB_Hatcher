@@ -1,0 +1,4 @@
+Change Net Name : Old Net Name=39 New Net Name=29
+Added Member To Class: ClassName=sheet_LAC Member=Component LCD1 LCD16x2A
+Added Member To Class: ClassName=sheet_LAC Member=Component SW1 SW
+Added Room: Name=sheet_LAC
